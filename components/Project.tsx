@@ -1,5 +1,5 @@
 import { Project } from '../model/Project';
-import Image from 'next/image';
+import Image from './Image';
 import styles from './Project.module.css';
 
 export default function ProjectDetail({ project }: { project: Project }) {

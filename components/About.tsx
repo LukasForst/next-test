@@ -1,5 +1,5 @@
 import styles from './About.module.css';
-import Image from 'next/image';
+import Image from './Image';
 
 export default function About() {
   const now = new Date().getFullYear();
@@ -39,7 +39,7 @@ export default function About() {
              href={'mailto:lukas@forst.dev'}
           >
             <Image
-              src={'/assets/email5.png'}
+              src={'/assets/email.png'}
               height={icoSizePx}
               width={icoSizePx}
               alt={'Email icon.'}
