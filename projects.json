@@ -1,0 +1,221 @@
+{
+  "projects": [
+    {
+      "title": "Katlib",
+      "description": "Collection of extension functions for Kotlin.",
+      "githubLink": "https://github.com/LukasForst/katlib",
+      "language": "kotlin",
+      "category": "library"
+    },
+    {
+      "title": "Exposed Upsert",
+      "description": "PostgreSQL upsert implementation for Exposed framework.",
+      "githubLink": "https://github.com/LukasForst/exposed-upsert",
+      "language": "kotlin",
+      "category": "library"
+    },
+    {
+      "title": "Ktor Rate Limiting",
+      "description": "Rate limiting plugin for Ktor.",
+      "githubLink": "https://github.com/LukasForst/ktor-rate-limiting",
+      "language": "kotlin",
+      "category": "library"
+    },
+    {
+      "title": "Ktor Api Key",
+      "description": "Ktor API Key Authentication Provider.",
+      "githubLink": "https://github.com/LukasForst/ktor-api-key",
+      "language": "kotlin",
+      "category": "library"
+    },
+    {
+      "title": "Wire Backup Export",
+      "description": "Visualisation of Wire Clients backup",
+      "githubLink": "https://github.com/wireapp/backup-export-tool",
+      "language": "java",
+      "category": "wire"
+    },
+    {
+      "title": "Roman",
+      "description": "E2EE as a service for Wire Bots.",
+      "githubLink": "https://github.com/wireapp/roman",
+      "language": "java",
+      "category": "wire"
+    },
+    {
+      "title": "Cryptobox4j",
+      "description": "Cryptography for Wire bots.",
+      "githubLink": "https://github.com/wireapp/cryptobox4j",
+      "language": "java",
+      "category": "wire"
+    },
+    {
+      "title": "Charon",
+      "description": "Proxy mapping Slack API to Wire API.",
+      "githubLink": "https://github.com/wireapp/charon",
+      "language": "python",
+      "category": "wire"
+    },
+    {
+      "title": "Charon-Slack DevOps",
+      "description": "DevOps porn for Slack Bots onboarding.",
+      "githubLink": "https://github.com/LukasForst/slack-onboarding-bot",
+      "language": "devops",
+      "category": "wire"
+    },
+    {
+      "title": "Ganymede",
+      "description": "Wire digital signatures backend.",
+      "githubLink": "https://github.com/wireapp/ganymede",
+      "language": "kotlin",
+      "category": "wire"
+    },
+    {
+      "title": "Wire Backup Decryption",
+      "description": "Library using Libsodium to decrypt Wire clients backups.",
+      "githubLink": "https://github.com/LukasForst/wire-backup-export",
+      "language": "kotlin",
+      "category": "wire"
+    },
+    {
+      "title": "Poll Bot",
+      "description": "Bot for Wire that can create polls.",
+      "githubLink": "https://github.com/wireapp/poll-bot",
+      "language": "kotlin",
+      "category": "wire"
+    },
+    {
+      "title": "Narvi",
+      "description": "Bot for Wire support team.",
+      "githubLink": "https://github.com/wireapp/narvi",
+      "language": "kotlin",
+      "category": "wire"
+    },
+    {
+      "title": "Pinder",
+      "description": "Website that chooses name of project for you.",
+      "githubLink": "https://github.com/LukasForst/pinder",
+      "language": "vuejs",
+      "category": "app"
+    },
+    {
+      "title": "Printing Company",
+      "description": "Application for company management.",
+      "githubLink": "https://github.com/LukasForst/printing-company",
+      "language": "react",
+      "category": "app"
+    },
+    {
+      "title": "Roman Echo Bot Python",
+      "description": "Simple echo bot for Wire using Roman proxy.",
+      "githubLink": "https://github.com/wireapp/echo-bot-roman",
+      "language": "python",
+      "category": "wire"
+    },
+    {
+      "title": "Kotlin Gradle Template",
+      "description": "Template for publishing Gradle libraries to JCenter.",
+      "githubLink": "https://github.com/LukasForst/maven-library",
+      "language": "kotlin",
+      "category": "template"
+    },
+    {
+      "title": ".NET Core Template",
+      "description": "Boilerplate for bigger projects using .NET Core 3.1.",
+      "githubLink": "https://github.com/LukasForst/dotnet-core-template",
+      "language": "csharp",
+      "category": "template"
+    },
+    {
+      "title": "Nginx, Swagger & Docker Compose",
+      "description": "Using Nginx as API Gateway with Swagger UI in docker-compose.",
+      "githubLink": "https://github.com/LukasForst/nginx-api-gateway",
+      "language": "devops",
+      "category": "template"
+    },
+    {
+      "title": "Bachelor Thesis",
+      "description": "Scheduling optimization jobs on distributed platform.",
+      "githubLink": "https://github.com/LukasForst/bachelor-thesis",
+      "language": "tex",
+      "category": "theory"
+    },
+    {
+      "title": "Students Phishing",
+      "description": "Blog post on how we hacked students on CTU.",
+      "githubLink": "https://github.com/LukasForst/BSY",
+      "language": "python",
+      "category": "theory"
+    },
+    {
+      "title": "Thinkfan Helper",
+      "description": "Tool fixing Thinkfan settings on some kernels.",
+      "githubLink": "https://github.com/LukasForst/thinkfan-helper",
+      "language": "python",
+      "category": "app"
+    },
+    {
+      "title": "Fousy Band",
+      "description": "Website for my band.",
+      "githubLink": "https://github.com/LukasForst/fousyband.com",
+      "language": "vuejs",
+      "category": "web"
+    },
+    {
+      "title": "This site",
+      "description": "This website.",
+      "githubLink": "https://github.com/LukasForst/lukas.forst.dev",
+      "language": "react",
+      "category": "web"
+    },
+    {
+      "title": "TXMatching",
+      "description": "Solver for kidney pair donation matching problems.",
+      "githubLink": "https://github.com/mild-blue/txmatching",
+      "language": "python",
+      "category": "mild-blue"
+    },
+    {
+      "title": "CEE Hacks Machine Learning",
+      "description": "Award winning submission for CEE Hacks.",
+      "githubLink": "https://github.com/mild-blue/cee-hacks-2020-ml",
+      "language": "ml",
+      "category": "mild-blue"
+    },
+    {
+      "title": "Admin Broadcast",
+      "description": "Broadcast bot developed in TypeScript and Deno.",
+      "githubLink": "https://github.com/wireapp/admin-broadcast",
+      "language": "deno",
+      "category": "wire"
+    },
+    {
+      "title": "Roman Echo Bot JS",
+      "description": "Simple Wire echo bot, developed in TypeScript and Deno.",
+      "githubLink": "https://github.com/wireapp/echo-bot-roman-js",
+      "language": "deno",
+      "category": "wire"
+    },
+    {
+      "title": "Jira Broadcast",
+      "description": "Wire bot publishing webhooks to Wire.",
+      "githubLink": "https://github.com/wireapp/jira-broadcast",
+      "language": "deno",
+      "category": "wire"
+    },
+    {
+      "title": "Covid Vaxx",
+      "description": "A tool for the administration of COVID-19 vaccinations.",
+      "githubLink": "https://github.com/mild-blue/covid-vaxx",
+      "language": "kotlin",
+      "category": "mild-blue"
+    },
+    {
+      "title": "StratosphereLinuxIPS",
+      "description": "A machine learning-based Intrusion Prevention System (IDS/IPS). Stratosphere Laboratory",
+      "githubLink": "https://github.com/stratosphereips/StratosphereLinuxIPS",
+      "language": "python",
+      "category": "stratosphere"
+    }
+  ]
+}
