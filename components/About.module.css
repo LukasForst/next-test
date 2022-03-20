@@ -1,0 +1,27 @@
+.textBlock {
+    padding: 15px;
+    min-width: 300px;
+    max-width: 500px;
+    line-height: 2.2;
+    font-size: 15px;
+    /*noinspection CssFloatPxLength,CssNonIntegerLengthInPixels*/
+    letter-spacing: .1px;
+    text-align: justify;
+}
+
+.socialContainer {
+    display: flex;
+    flex-flow: row;
+    justify-content: center;
+}
+
+.socialButton {
+    height: 35px;
+    width: 35px;
+    margin: 10px;
+    transition: transform .4s;
+}
+
+.socialButton:hover {
+    transform: scale(1.4);
+}

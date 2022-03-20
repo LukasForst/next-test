@@ -1,0 +1,22 @@
+.project {
+    width: 15rem;
+    height: 15rem;
+    transition: background-color .5s;
+}
+
+.project:hover {
+    color: inherit;
+    background-color: whitesmoke;
+}
+
+.logo {
+    align-self: center;
+    max-width: 70px;
+    max-height: 70px;
+    padding: 1rem;
+    transition: transform .4s;
+}
+
+.project:hover .logo {
+    transform: scale(1.4);
+}
